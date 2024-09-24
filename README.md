@@ -28,7 +28,7 @@ This is a simple Tic-Tac-Toe Game created using HTML, CSS, and JavaScript. It al
 ## Demo
 You can try the game by visiting the following link:
 
-[LinkedIn](#) _(Replace with actual hosted demo if available)_
+[LinkedIn](https://www.linkedin.com/in/deepak-patil-23772b252/)
 
 ## Technologies Used
 - HTML: Markup for structuring the game.
